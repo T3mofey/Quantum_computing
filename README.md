@@ -8,4 +8,4 @@ Quick summary of the labs:
 
 3) Lab 3 is a Grover algorithm using Pennylane
 
-4) Lab 5 conatains different optimization algorithms - QAOA, QAA and QUBO to initialize coordinates of the atoms. 
+4) Lab 5 contains different optimization algorithms - QAOA, QAA and QUBO to initialize coordinates of the atoms. 
